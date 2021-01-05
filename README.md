@@ -1,2 +1,7 @@
-# my-website
+# projects
+heres my projects
+
+
+# resume 
+heres my resume 
 
