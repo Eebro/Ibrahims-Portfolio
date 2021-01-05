@@ -1,8 +1,8 @@
 # Ibrahim's Cave
 Welcome to my website! check out some of the projects I've been working on
 
-# resume 
+# Resume 
 View my resume 
 
-# projects
+# Projects
 Heres my projects
